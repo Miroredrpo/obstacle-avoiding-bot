@@ -13,6 +13,7 @@ I have created my first ever 3d model in my entire life, although I have not don
 
 ## 10/28/2025 - finished the schematics   
 
-I just completed the schematics for the first time and now I am waiting for my brother who is an electrical engineer to review the schematics and make sure the connections are correct and will be functional ![Screenshot 2025-10-18 153902](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--22ca810fb8e2759bf7556d00c7077e663f688bff/Screenshot%202025-10-18%20153902.png)
+I just completed the schematics for the first time and now I am waiting for my brother who is an electrical engineer to review the schematics and make sure the connections are correct and will be functional ![Screenshot 2025-10-28 121652](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--75a1fc6db997687596e7b83facc3b81b1f769168/Screenshot%202025-10-28%20121652.png)
+
   
 
