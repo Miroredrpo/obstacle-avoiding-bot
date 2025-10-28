@@ -11,9 +11,15 @@
 I have created my first ever 3d model in my entire life, although I have not done the schematics for this project yet, I have made a 3d model laying out how the components will be placed in the main frame and also if you are wondering why is there those circular things instead of a flat plane as a base its cause, I don't have a flat surface to mount everything to and I don't have a 3d printer to print it so I made paper rolls and glued them to use as my baseplate so that's![Screenshot 2025-10-18 113833.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjkxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--17f48b24e445ab47a014a664437d069f1e8f96aa/Screenshot%202025-10-18%20113833.png)
  that.  
 
-## 10/28/2025 - finished the schematics   
+## 10/28/2025 12 PM - finished the schematics   
 
 I just completed the schematics for the first time and now I am waiting for my brother who is an electrical engineer to review the schematics and make sure the connections are correct and will be functional ![Screenshot 2025-10-28 121652](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--75a1fc6db997687596e7b83facc3b81b1f769168/Screenshot%202025-10-28%20121652.png)
 
+  
+
+## 10/28/2025 7 PM - Finished the BOM !  
+
+![Screenshot 2025-10-28 194338](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIwNywicHVyIjoiYmxvYl9pZCJ9fQ==--a32d171e1aa1bdd1ef56fa1a27baac2f035af86f/Screenshot%202025-10-28%20194338.png)
+I just calculated the cost at which the bot will come out to and I did not really want to give all the expense to Hacklub and wanted to help out as well so I think the highest one in the lowest tier is 25$, although the cost will comeout to about 50ish dollars if i include the 3d print, shipping fee  and the wires and all, i will cover those myself! Cheers.![Screenshot 2025-10-28 195536](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--4462fef8fdbf3036aa01159b937b1bfaf253c239/Screenshot%202025-10-28%20195536.png)
   
 
