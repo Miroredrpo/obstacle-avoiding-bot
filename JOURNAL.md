@@ -6,12 +6,13 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Obstacle avoidance robot, with remote control **.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/642).
-
-
 ## 10/18/2025 - First 3d model  
 
 I have created my first ever 3d model in my entire life, although I have not done the schematics for this project yet, I have made a 3d model laying out how the components will be placed in the main frame and also if you are wondering why is there those circular things instead of a flat plane as a base its cause, I don't have a flat surface to mount everything to and I don't have a 3d printer to print it so I made paper rolls and glued them to use as my baseplate so that's![Screenshot 2025-10-18 113833.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjkxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--17f48b24e445ab47a014a664437d069f1e8f96aa/Screenshot%202025-10-18%20113833.png)
  that.  
+
+## 10/28/2025 - finished the schematics   
+
+I![Screenshot 2025-10-18 150707](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--6b7b2d963be36e73378815c227c323599820c61f/Screenshot%202025-10-18%20150707.png)
+ just completed the schematics for the first time and now I am waiting for my brother who is an electrical engineer to review the schematics and make sure the connections are correct and will be functional   
 
