@@ -2,7 +2,7 @@
 
 ## Background
 
-I have been making arduino projects for sbout 3 years now, i really wanted to learn and make using the ESP-32 Board,
+I have been making arduino projects for about 3 years now, i really wanted to learn and make using the ESP-32 Board,
 Since this is my first ever ESP-32 project, I am keeping it simple with just a obstacle avoiding robot, but i will make 
 this remote controlled using the inbuilt bluetooth chip and also make it accessable/useable from anywhere using the wifi 
 chip integrated in it, I am planning to make a web-app myself, which is my upcoming project. I will update the web-app 
