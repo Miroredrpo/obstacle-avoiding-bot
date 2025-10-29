@@ -23,3 +23,8 @@ I just completed the schematics for the first time and now I am waiting for my b
 I just calculated the cost at which the bot will come out to and I did not really want to give all the expense to Hacklub and wanted to help out as well so I think the highest one in the lowest tier is 25$, although the cost will comeout to about 50ish dollars if i include the 3d print, shipping fee  and the wires and all, i will cover those myself! Cheers.![Screenshot 2025-10-28 195536](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--4462fef8fdbf3036aa01159b937b1bfaf253c239/Screenshot%202025-10-28%20195536.png)
   
 
+## 10/29/2025 - Finished the code !!  
+
+I just finished writing the code for this!, now what it dos is when turned on it just goes into autonomous mode and does the whole obstacle avoidance thing and then when it receives any command via Bluetooth it goes into manual/rc mode and via Bluetooth when we send the command 'A' it goes back into its autonomous obstacle avoidance mode.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--83096e63679c758c883bbbae78ba6d1eda5668bd/image.png)
+  
+
