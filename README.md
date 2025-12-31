@@ -36,3 +36,9 @@ In the schematics i have done the main wiring of the bot , since I am also new t
 scattered here and there, hope no one minds 😅
 
 <img width="1917" height="1010" alt="Screenshot 2025-10-18 155239" src="https://github.com/user-attachments/assets/fb0658a6-9c06-4c11-8911-29190b8777fd" />
+
+
+## BUILD IMAGES:
+
+![IMG_20251121_075107](https://github.com/user-attachments/assets/161bfab4-405c-4ef0-b803-dbeaebe49719)
+
